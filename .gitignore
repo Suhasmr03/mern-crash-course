@@ -1,0 +1,15 @@
+﻿# filepath: c:\Users\SUHAS M R\OneDrive\Desktop\mern-crash-course\.gitignore
+node_modules/
+dist/
+build/
+.env
+.env.local
+.vscode/
+.DS_Store
+npm-debug.log
+yarn-error.log
+*.log
+/.idea/
+/coverage/
+*.sqlite
+*.db
